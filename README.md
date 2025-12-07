@@ -1,5 +1,7 @@
 <h1 align="center">This is Raabia ~</h1>
-<h4 align="center">Fresh Computer Science graduate from NUCES-FAST. I am a self-learner and spend most of my time sharpening 🔪 my skills and learning 📚 more. </h3>
+<h4 align="center">Recent Computer Science graduate from NUCES-FAST with a strong foundation and practical experience across diverse fields, including Software Development and Machine Learning.</h3>
+
+I am keenly focused on transitioning into the field of Cyber Security, while maintaining a deep curiosity and commitment to mastering the intricacies of Artificial Intelligence (AI) and Pattern Recognition. Dedicated to continuous learning and closely tracking emerging technologies to apply innovative solutions to complex security challenges.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRAABIA.SRAABIA)
 [![Github](https://img.shields.io/github/followers/SRAABIA?label=Follow&style=social)](https://github.com/SRAABIA)
@@ -8,29 +10,6 @@
 - 💭 **Flutter - Mobile App Development**
 - 💬 **C, C++, Python, HTML, CSS, JS**
 - 📫 How to reach me **sraabiahh@gmail.com**
-
-## 💼 Experience
-
-### 🔹 Imperium Dynamics — **Power Platform Intern**  
-📅 *2 Months Internship*  
-- Built enterprise solutions using Power Platform including Canvas & Model-Driven Apps, C# plugins, and Dataverse.  
-  ✦ *Key skills:* Power Fx, Dataverse, Canvas App UI, C#, workflow automation, backend customization.
-
-
----
-
-### 🔹 Faysal Bank Limited — **Flutter Intern**  
-📅 *1 Month Internship*  
-Built an eCommerce mobile app named [**CoreMemory**](https://github.com/SRAABIA/CoreMemory) using **Flutter**.  
-✦ *Key skills:* Flutter widgets, state management, responsive design.
-
----
-
-### 🔹 OpenPort Limited — **Web Development Intern**  
-📅 *2 Months Internship*  
-Worked on internal web tools using **SQL**, **HTML/CSS**, and **Node.js**.  
-✦ *Key skills:* Full-stack basics, backend scripting, database queries.
-
 
 ## Projects 2k25: 
 - [FINAL YEAR PROJECT: QuickHelp](https://github.com/SRAABIA/QuickHelp)
